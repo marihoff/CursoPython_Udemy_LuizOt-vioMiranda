@@ -1,4 +1,5 @@
 nome = input('Qual o seu nome? ') #input serve para coletar dados, o usuário vai digitar o nome e o Python vai armazenar na variável nome
+
 print(f'O seu nome é {nome}') #depois o dado vai vir para dentro da variável nome, e o Python vai imprimir na tela o nome que o usuário digitou
 
 numero_1 = input('Digite um número: ')
